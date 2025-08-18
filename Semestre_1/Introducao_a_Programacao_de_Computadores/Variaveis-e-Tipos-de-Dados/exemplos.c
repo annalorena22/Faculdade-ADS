@@ -11,4 +11,11 @@ int main() {
     idade = 25; // declarando um valor para idade posteriormente
 
     quantidade = 10; // alterando o valor declarado anteriormente
+
+    printf("A idade é: %d\n", idade);
+    printf("A quantidade é: %d\n", quantidade);
+    printf("A altura é: %.2f\n", altura);
+    printf("O peso é: %.2lf\n", peso);
+    printf("A letra é: %c\n", letra);
+    printf("O nome é: %s\n", nome);
 }
