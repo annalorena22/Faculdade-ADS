@@ -20,13 +20,13 @@ int main()
   switch (escolhaUsuario)
   {
   case 1:
-    printf("Usuário:Você escolheu Pedra.\n");
+    printf("Usuário: Pedra.\n");
     break;
   case 2:
-    printf("Usuário: Você escolheu Papel.\n");
+    printf("Usuário: Papel.\n");
     break;
   case 3:
-    printf("Usuário: Você escolheu Tesoura.\n");
+    printf("Usuário: Tesoura.\n");
     break;
   default:
     printf("Escolha inválida! Por favor, escolha 1, 2 ou 3.\n");
@@ -36,13 +36,13 @@ int main()
   switch (escolhaComputador)
   {
   case 1:
-    printf("Computador: Você escolheu Pedra.\n");
+    printf("Computador: Pedra.\n");
     break;
   case 2:
-    printf("Computador: Você escolheu Papel.\n");
+    printf("Computador: Papel.\n");
     break;
   case 3:
-    printf("Computador: Você escolheu Tesoura.\n");
+    printf("Computador: Tesoura.\n");
     break;
   }
 
