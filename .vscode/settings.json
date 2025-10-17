@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    ".env": "php",
+    "EXEMPLO.C": "cpp"
+  }
+}
